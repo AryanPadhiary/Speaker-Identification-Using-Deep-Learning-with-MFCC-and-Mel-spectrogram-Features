@@ -5,7 +5,7 @@ This project demonstrates that complex models (like our custom SE-ResCNN) achiev
 Dataset Information
 Dataset Used: LibriSpeech ASR Corpus (train-clean-100 subset)
 Description: A large-scale corpus of read English speech. For this project, a balanced subset of 30 to 75 distinct speakers was utilized to train and validate the models.
-Download Link: LibriSpeech Official Site (OpenSLR)
+Download Link: [LibriSpeech Official Site (OpenSLR)](http://www.openslr.org/resources/12/train-clean-100.tar.gz)
 
 Tech Stack and Libraries
 This project is built using Python. The following libraries are required to run the pipeline:
